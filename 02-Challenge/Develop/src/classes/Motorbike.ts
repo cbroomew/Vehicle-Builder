@@ -64,7 +64,7 @@ class Motorbike extends Vehicle {
     console.log(`Year: ${this.year}`);
     console.log(`Weight: ${this.weight} lbs`);
     console.log(`Top Speed: ${this.topSpeed} mph`);
-
+    console.log(`Wheels: ${this.wheels}`);
     console.log(`Motorbike ${this.make} , ${this.model} is doing a wheelie!`);
   }
 
